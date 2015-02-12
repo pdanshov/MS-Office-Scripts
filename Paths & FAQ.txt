@@ -1,0 +1,3 @@
+C:\Users\Administrator\AppData\Roaming\Microsoft\AddIns
+Copy Macro from PERSONAL.XLS to XLAM file and add argument to Sub Parameter Section: control As IRibbonControl
+Open XLAM in Custom UI Editor and make changes/additions
